@@ -1,0 +1,21 @@
+.content ul li{
+    list-style: none;
+    margin-left: -30px;
+}
+
+.content ul li a{
+    color: black;
+    font: arial;
+    font-weight: bold;
+}
+
+.content ul li a:active{
+    text-decoration: none;
+    color: brown;
+}
+
+.tentang ul li a{
+    font-size: 14px;
+}
+
+
